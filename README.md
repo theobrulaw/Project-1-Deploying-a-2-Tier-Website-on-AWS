@@ -1,11 +1,12 @@
 # Amazon S3 Static Website Hosting (Cloud Infrastructure Lab)
 
-This repository contains hands-on projects demonstrating the design,
-deployment, and operation of a highly available and scalable web application
-on AWS using best practices for reliability, performance, and cost efficiency.
+This repository documents hands-on labs and exercises using Amazon S3
+to deploy and manage static websites in AWS, focusing on cloud storage,
+security configuration, access control, and scalable web hosting
+within a production-style cloud environment.
 
-The focus is on building cloud-native architectures that can scale on demand,
-handle failures gracefully, and support real-world production workloads.
+The focus is on developing practical AWS skills that support CloudOps,
+DevOps, and cloud infrastructure engineering roles.
 
 ---
 
