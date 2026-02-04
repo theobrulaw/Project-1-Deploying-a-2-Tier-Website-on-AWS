@@ -1,4 +1,4 @@
-# Scalable Web Application on AWS
+# Amazon S3 Static Website Hosting (Cloud Infrastructure Lab)
 
 This repository contains hands-on projects demonstrating the design,
 deployment, and operation of a highly available and scalable web application
