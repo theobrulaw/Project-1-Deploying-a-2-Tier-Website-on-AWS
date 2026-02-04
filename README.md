@@ -12,7 +12,7 @@ DevOps, and cloud infrastructure engineering roles.
 
 ## Technologies & Services Used
 
-- Amazon EC2
+- Amazon Web Services (AWS)
 - Application Load Balancer (ALB)
 - Auto Scaling Groups (ASG)
 - Amazon VPC (Public & Private Subnets)
